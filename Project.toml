@@ -1,0 +1,4 @@
+name = "DataFrameUtils"
+uuid = "15133c4a-c3b5-452f-9727-237997975473"
+authors = ["efmanu <manuedavakandam@gmail.com>"]
+version = "0.1.0"
